@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/library-photoview/library-photoview.iml" filepath="$PROJECT_DIR$/libraries/library-photoview/library-photoview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/library-pulltorefresh/library-pulltorefresh.iml" filepath="$PROJECT_DIR$/libraries/library-pulltorefresh/library-pulltorefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/library-sticky-listheaders/library-sticky-listheaders.iml" filepath="$PROJECT_DIR$/libraries/library-sticky-listheaders/library-sticky-listheaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/library-umengshare/library-umengshare.iml" filepath="$PROJECT_DIR$/libraries/library-umengshare/library-umengshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/library-viewpager-indicator/library-viewpager-indicator.iml" filepath="$PROJECT_DIR$/libraries/library-viewpager-indicator/library-viewpager-indicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oschina-app.iml" filepath="$PROJECT_DIR$/oschina-app.iml" />
+    </modules>
+  </component>
+</project>
