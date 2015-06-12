@@ -1,29 +1,29 @@
-#°¥Âï-OSCHINAµÚÈı·½¿Í»§¶Ë
+#å“å˜›-OSCHINAç¬¬ä¸‰æ–¹å®¢æˆ·ç«¯
 ===========
-[![ÆÁÄ»½ØÍ¼](http://git.oschina.net/tonlin/android-app/raw/master/screenshots/screen_shots.jpg)](http://zhushou.360.cn/detail/index/soft_id/1987733)
+[![å±å¹•æˆªå›¾](http://git.oschina.net/tonlin/android-app/raw/master/screenshots/screen_shots.jpg)](http://weibo.com/blueelchina)
 
 
-## ¿ªÔ´Ğ­Òé
-±¾ÏîÄ¿²ÉÓÃ GPL ÊÚÈ¨Ğ­Òé£¬»¶Ó­´ó¼ÒÔÚÕâ¸ö»ù´¡ÉÏ½øĞĞ¸Ä½ø£¬²¢Óë´ó¼Ò·ÖÏí¡£
+## å¼€æºåè®®
+æœ¬é¡¹ç›®é‡‡ç”¨ GPL æˆæƒåè®®ï¼Œæ¬¢è¿å¤§å®¶åœ¨è¿™ä¸ªåŸºç¡€ä¸Šè¿›è¡Œæ”¹è¿›ï¼Œå¹¶ä¸å¤§å®¶åˆ†äº«ã€‚
 * [GPL](http://www.gnu.org/licenses/licenses.en.html)
 
-## ±àÒë
+## ç¼–è¯‘
 
-### Ê¹ÓÃGradle±àÒë
-×î¼òµ¥µÄ·½·¨ÊÇÍ¨¹ı°²×°[Android Studio](https://developer.android.com/sdk/index.html) v1.+ºÍ[Gradle](https://www.gradle.org/) v2.2.1½øĞĞ±àÒë£¬
-°²×°Íê³Éºó£¬Äã¾Í¿ÉÒÔÍ¨¹ıAndroidStudioµ¼Èë¹¤³Ì½øĞĞ¿ª·¢ÁË¡£ ¾ßÌå²Ù×÷²½ÖèÈçÏÂ£º
- 1. È·±£ÄãµÄ²Ù×÷ÏµÍ³°²×°ÁËJDK¿ª·¢»·¾³¡£
- 2. È·±£ÄãÒÑ¾­ÏÂÔØÁËAndroid SDK,²¢ÇÒÏÂÔØÁËBuild-tools v21.1.2 ºÍ Android 5.0.1 SDK¡£
- 3. È·±£ÄãÒÑ¾­ÏÂÔØÁËAndroid Studio ºÍ Gradle¡£
- 4. ´ò¿ªAndroid Studioµ¼Èë¹¤³Ì
- Ê£ÏÂ¹¤×÷Çë½»¸øGradleËü»á°ïÄãÍê³ÉÊ£ÏÂµÄÊÂÇé¡£
+### ä½¿ç”¨Gradleç¼–è¯‘
+æœ€ç®€å•çš„æ–¹æ³•æ˜¯é€šè¿‡å®‰è£…[Android Studio](https://developer.android.com/sdk/index.html) v1.+å’Œ[Gradle](https://www.gradle.org/) v2.2.1è¿›è¡Œç¼–è¯‘ï¼Œ
+å®‰è£…å®Œæˆåï¼Œä½ å°±å¯ä»¥é€šè¿‡AndroidStudioå¯¼å…¥å·¥ç¨‹è¿›è¡Œå¼€å‘äº†ã€‚ å…·ä½“æ“ä½œæ­¥éª¤å¦‚ä¸‹ï¼š
+ 1. ç¡®ä¿ä½ çš„æ“ä½œç³»ç»Ÿå®‰è£…äº†JDKå¼€å‘ç¯å¢ƒã€‚
+ 2. ç¡®ä¿ä½ å·²ç»ä¸‹è½½äº†Android SDK,å¹¶ä¸”ä¸‹è½½äº†Build-tools v21.1.2 å’Œ Android 5.0.1 SDKã€‚
+ 3. ç¡®ä¿ä½ å·²ç»ä¸‹è½½äº†Android Studio å’Œ Gradleã€‚
+ 4. æ‰“å¼€Android Studioå¯¼å…¥å·¥ç¨‹
+ å‰©ä¸‹å·¥ä½œè¯·äº¤ç»™Gradleå®ƒä¼šå¸®ä½ å®Œæˆå‰©ä¸‹çš„äº‹æƒ…ã€‚
 
-### Äã¿ÉÄÜ»áÓöµ½µÄÎÊÌâ
-Ê¹ÓÃgradle »òÕß Android Studio»áÓöµ½Ò»Ğ©ÍøÂçÕÏ°­¡£ÕâĞ©ÕÏ°­£¬Ê¹ÓÃ [ºìĞÓÎª¿ª·¢Õß¿ª·ÅµÄÃâ·ÑµÄ¹«Òæ´úÀí](http://honx.in/_VUh8JIkWGiHr2XaA) ¿ÉÒÔ½â¾ö¡£
+### ä½ å¯èƒ½ä¼šé‡åˆ°çš„é—®é¢˜
+ä½¿ç”¨gradle æˆ–è€… Android Studioä¼šé‡åˆ°ä¸€äº›ç½‘ç»œéšœç¢ã€‚è¿™äº›éšœç¢ï¼Œè¯·è‡ªè¡Œgoogleè§£å†³ã€‚
 
 
-## ¸ĞĞ»
- ±¾ÏîÄ¿Ò²Ê¹ÓÃÁËÆäËûµÚÈı·½¿ªÔ´¿âÀıÈç£º
+## æ„Ÿè°¢
+ æœ¬é¡¹ç›®ä¹Ÿä½¿ç”¨äº†å…¶ä»–ç¬¬ä¸‰æ–¹å¼€æºåº“ä¾‹å¦‚ï¼š
  * [Android-maven-plugin](https://github.com/jayway/maven-android-plugin)
  * [ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
  * [PhotoView](https://github.com/chrisbanes/PhotoView)
